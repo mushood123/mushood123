@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Khawaja Muhammad Mushood</h1>
 
-<h3 align="center">Frontend Developer | React ⚛️ | React Native 📱 | Firebase 🚀</h3>
+<h3 align="center">Software Engineer | React ⚛️ | React Native 📱 | Firebase 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78336&center=true&vCenter=true&width=750&lines=Open+Source+Contributor+%F0%9F%92%AA;React+%7C+React+Native+Developer+%F0%9F%9A%80;CI%2FCD+%7C+Firebase+%7C+Secure+APIs+%F0%9F%94%91;Final+Year+CS+Student+%7C+Learning+Every+Day+%F0%9F%93%9A;Let's+build+cool+stuff+together+%F0%9F%A4%97" alt="Typing SVG" />
