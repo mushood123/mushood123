@@ -11,7 +11,6 @@
 ## 💫 About Me
 
 - 🧑‍💻 Frontend Developer focused on **React** and **React Native**
-- 🏫 Final-year CS Student at **University of Management and Technology**
 - 🔧 Obsessed with **Firebase**, **API security**, and **build pipelines**
 - 👨‍💻 Open source contributor – always looking to contribute meaningful code
 - ✍️ Not on Medium, not a blogger (I'm all about code 🧠💻)
