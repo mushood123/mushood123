@@ -55,6 +55,15 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
 ![BullMQ](https://img.shields.io/badge/-BullMQ-FF6B6B?style=flat-square&logo=redis)
 
+### 🗄️ ORMs & Database Tools
+
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
+![TypeORM](https://img.shields.io/badge/-TypeORM-FE0900?style=flat-square&logo=typeorm)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongodb)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod)
+![Joi](https://img.shields.io/badge/-Joi-FF6B6B?style=flat-square&logo=joi)
+![Lodash](https://img.shields.io/badge/-Lodash-3492FF?style=flat-square&logo=lodash)
+
 ### ☁️ Cloud & Database Services
 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
@@ -64,6 +73,15 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)
 ![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-4285F4?style=flat-square&logo=google-cloud)
 ![Google Maps](https://img.shields.io/badge/-Google%20Maps-4285F4?style=flat-square&logo=google-maps)
+![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-527FFF?style=flat-square&logo=amazon-rds)
+
+### 🗃️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4EA94B?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 
 ### 🛠️ DevOps & Deployment
 
