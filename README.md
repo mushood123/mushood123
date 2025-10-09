@@ -21,7 +21,11 @@
 
 ## ⚡ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
+
+```javascript
+const languages = ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "JSON"];
+```
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
@@ -30,7 +34,16 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json)
 
-### ⚛️ Frontend & State Management
+### ⚛️ Frontend Development
+
+```javascript
+const frontend = {
+  frameworks: ["React", "React Native"],
+  stateManagement: ["Redux", "Redux Toolkit", "Zustand", "Context API"],
+  routing: ["React Router", "React Native Navigation"],
+  styling: ["Styled Components", "Tailwind CSS"],
+};
+```
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
@@ -43,7 +56,17 @@
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
 
-### 🔧 Backend & APIs
+### 🔧 Backend Development
+
+```javascript
+const backend = {
+  runtime: ["Node.js"],
+  frameworks: ["NestJS", "Express.js"],
+  apis: ["REST API", "GraphQL", "WebSockets", "Webhooks"],
+  authentication: ["JWT"],
+  queue: ["BullMQ"],
+};
+```
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
@@ -55,7 +78,15 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
 ![BullMQ](https://img.shields.io/badge/-BullMQ-FF6B6B?style=flat-square&logo=redis)
 
-### 🗄️ ORMs & Database Tools
+### 🗄️ Database & ORM Tools
+
+```javascript
+const databaseTools = {
+  orms: ["Prisma", "TypeORM", "Mongoose"],
+  validation: ["Zod", "Joi"],
+  utilities: ["Lodash"],
+};
+```
 
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-FE0900?style=flat-square&logo=typeorm)
@@ -64,7 +95,32 @@
 ![Joi](https://img.shields.io/badge/-Joi-FF6B6B?style=flat-square&logo=joi)
 ![Lodash](https://img.shields.io/badge/-Lodash-3492FF?style=flat-square&logo=lodash)
 
-### ☁️ Cloud & Database Services
+### 🗃️ Databases
+
+```javascript
+const databases = {
+  relational: ["PostgreSQL", "MySQL", "SQL"],
+  nosql: ["MongoDB", "NoSQL"],
+};
+```
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4EA94B?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+
+### ☁️ Cloud Services
+
+```javascript
+const cloudServices = {
+  firebase: ["Firebase", "Authentication", "Realtime DB", "Firestore"],
+  supabase: ["Supabase"],
+  aws: ["AWS RDS", "AWS EC2", "AWS S3"],
+  google: ["Cloud Storage", "Google Maps"],
+  deployment: ["Vercel", "Railway"],
+};
+```
 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 ![Firebase Authentication](https://img.shields.io/badge/-Authentication-FFCA28?style=flat-square&logo=firebase)
@@ -75,15 +131,17 @@
 ![Google Maps](https://img.shields.io/badge/-Google%20Maps-4285F4?style=flat-square&logo=google-maps)
 ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-527FFF?style=flat-square&logo=amazon-rds)
 
-### 🗃️ Databases
+### 🛠️ DevOps & CI/CD
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server)
-![NoSQL](https://img.shields.io/badge/-NoSQL-4EA94B?style=flat-square&logo=mongodb)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-
-### 🛠️ DevOps & Deployment
+```javascript
+const devops = {
+  versionControl: ["Git", "GitHub"],
+  cicd: ["GitHub Actions", "CircleCI"],
+  containerization: ["Docker"],
+  servers: ["AWS EC2", "Nginx", "PM2"],
+  storage: ["AWS S3"],
+};
+```
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -97,13 +155,27 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx)
 ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2)
 
-### 🔌 API Integration & Tools
+### 🔌 API Integration & HTTP Clients
+
+```javascript
+const apiTools = {
+  query: ["RTK Query", "TanStack Query"],
+  http: ["Axios"],
+};
+```
 
 ![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?style=flat-square&logo=redux)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios)
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query)
 
-### 📱 Development Tools
+### 📱 Development Environment
+
+```javascript
+const devTools = {
+  mobile: ["Android Studio", "Xcode"],
+  compliance: ["HIPAA Compliance"],
+};
+```
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode)
