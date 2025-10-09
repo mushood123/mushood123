@@ -101,6 +101,7 @@ const databaseTools = {
 const databases = {
   relational: ["PostgreSQL", "MySQL", "SQL"],
   nosql: ["MongoDB", "NoSQL"],
+  realtime: ["Firebase Realtime Database", "Supabase Realtime"],
 };
 ```
 
@@ -109,6 +110,8 @@ const databases = {
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-4EA94B?style=flat-square&logo=mongodb)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![Firebase Realtime Database](https://img.shields.io/badge/-Firebase%20Realtime%20Database-FFCA28?style=flat-square&logo=firebase)
+![Supabase Realtime](https://img.shields.io/badge/-Supabase%20Realtime-3ECF8E?style=flat-square&logo=supabase)
 
 ### ☁️ Cloud Services
 
