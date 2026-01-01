@@ -13,7 +13,7 @@
 - 🧑‍💻 Full Stack Developer specializing in **NestJS**, **Express**, and **Node.js**
 - ⚛️ Frontend expertise in **React** and **React Native** for mobile development
 - 🔧 Passionate about **Firebase**, **Supabase**, **API security**, and **scalable architectures**
-- 🤖 Exploring **MCPs** (Model Context Protocols) and **Agentic AI** systems
+- 🤖 Exploring **MCPs** (Model Context Protocols), **Generative AI** and **Agentic AI** systems
 - ✍️ Writing about tech on **Medium** – sharing knowledge and experiences
 - 📫 How to reach me: **khawaja.muhammad.mushood@gmail.com**
 
