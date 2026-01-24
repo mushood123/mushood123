@@ -129,16 +129,6 @@ const devTools = {
   <img src="https://github-profile-trophy.vercel.app/?username=mushood123&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-Khawaja%20Muhammad%20Mushood-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khawaja-muhammad-mushood)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/mushood123)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium)](https://medium.com/@khawaja.muhammad.mushood)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:khawaja.muhammad.mushood@gmail.com)
-
----
 
 ## 🐍 Snake Eating Contribution Graph
 
