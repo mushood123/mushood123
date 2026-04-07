@@ -24,17 +24,17 @@
 ### 👨‍💻 Programming Languages
 
 ```javascript
-const languages = ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "JSON"];
+const languages = ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "JSON", "YAML", "C++"];
 ```
 
 ### ⚛️ Frontend Development
 
 ```javascript
 const frontend = {
-  frameworks: ["React", "React Native"],
+  frameworks: ["React", "React Native", "Vite", "Angular", "Nextjs" ],
   stateManagement: ["Redux", "Redux Toolkit", "Zustand", "Context API"],
-  routing: ["React Router", "React Native Navigation"],
-  styling: ["Styled Components", "Tailwind CSS"],
+  routing: ["React Router", "React Native Navigation", "App Router", "Tanstack Router"],
+  styling: ["Styled Components", "Tailwind CSS", "CSS"],
 };
 ```
 
@@ -43,10 +43,11 @@ const frontend = {
 ```javascript
 const backend = {
   runtime: ["Node.js"],
-  frameworks: ["NestJS", "Express.js"],
+  frameworks: ["NestJS", "Express.js", "Fastify"],
   apis: ["REST API", "GraphQL", "WebSockets", "Webhooks"],
-  authentication: ["JWT"],
-  queue: ["BullMQ"],
+  authentication: ["JWT", "AWS Cognito"],
+  cache: ["Redis", "Valke"],
+  queue: ["BullMQ", "Redis"],
 };
 ```
 
@@ -54,8 +55,8 @@ const backend = {
 
 ```javascript
 const databaseTools = {
-  orms: ["Prisma", "TypeORM", "Mongoose"],
-  validation: ["Zod", "Joi"],
+  orms: ["Prisma", "TypeORM", "Mongoose", "Drizzle"],
+  validation: ["Zod", "Joi", "Express Validator","Yup"],
   utilities: ["Lodash"],
 };
 ```
@@ -64,8 +65,8 @@ const databaseTools = {
 
 ```javascript
 const databases = {
-  relational: ["PostgreSQL", "MySQL", "SQL"],
-  nosql: ["MongoDB", "NoSQL"],
+  relational: ["PostgreSQL", "MySQL", "SQL", "Amazon Aurora"],
+  nosql: ["MongoDB", "NoSQL", "Amazon DynamoDB"],
   realtime: ["Firebase Realtime Database", "Supabase Realtime"],
 };
 ```
@@ -75,10 +76,10 @@ const databases = {
 ```javascript
 const cloudServices = {
   firebase: ["Firebase", "Authentication", "Realtime DB", "Firestore"],
-  supabase: ["Supabase"],
+  supabase: ["Supabase Bucket", "Edge Functions", "Authentication", "Database"],
   aws: ["AWS RDS", "AWS EC2", "AWS S3"],
-  google: ["Cloud Storage", "Google Maps"],
-  deployment: ["Vercel", "Railway"],
+  google: ["Cloud Storage", "Google Maps", "Calenders"],
+  deployment: ["Vercel", "Railway", "GCP", "AWS", "Netlify", "Azure"],
 };
 ```
 
@@ -86,7 +87,7 @@ const cloudServices = {
 
 ```javascript
 const devops = {
-  versionControl: ["Git", "GitHub"],
+  versionControl: ["Git", "GitHub", "BitBucket"],
   cicd: ["GitHub Actions", "CircleCI"],
   containerization: ["Docker"],
   servers: ["AWS EC2", "Nginx", "PM2"],
@@ -99,7 +100,7 @@ const devops = {
 ```javascript
 const apiTools = {
   query: ["RTK Query", "TanStack Query"],
-  http: ["Axios"],
+  http: ["Axios", "Fetch"],
 };
 ```
 
@@ -108,7 +109,7 @@ const apiTools = {
 ```javascript
 const devTools = {
   mobile: ["Android Studio", "Xcode"],
-  compliance: ["HIPAA Compliance"],
+  compliance: ["HIPAA Compliance", "GDPR" , "EU"],
 };
 ```
 
