@@ -110,8 +110,10 @@ const apiTools = {
 const devTools = {
   mobile: ["Android Studio", "Xcode"],
   compliance: ["HIPAA Compliance", "GDPR" , "EU"],
-  codeEditor:["vscode", "cursor", "antigravity"],
-  codeAgents=["claude", "codex", "agy cli"]
+  codeEditor:["vscode", "cursor", "antigravity", "nano"],
+  codeAgents=["claude", "codex", "agy cli"],
+  apiTools: ["Postman", "Thunder Client", "Swagger UI", "OpenAI Docs"],
+  versionControl: ["Git", "GitHub Desktop", "GitLab", "BitBucket"]
 };
 ```
 
@@ -129,7 +131,7 @@ const devTools = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mushood123&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mushood123&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="Mushood's GitHub trophies" />
 </p>
 
 
