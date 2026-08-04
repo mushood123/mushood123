@@ -24,7 +24,7 @@
 ### 👨‍💻 Programming Languages
 
 ```javascript
-const languages = ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "JSON", "YAML", "C++"];
+const languages = ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "JSON", "YAML", "C++", "Bash"];
 ```
 
 ### ⚛️ Frontend Development
@@ -42,10 +42,10 @@ const frontend = {
 
 ```javascript
 const backend = {
-  runtime: ["Node.js"],
-  frameworks: ["NestJS", "Express.js", "Fastify"],
+  runtime: ["Node.js", "Python"],
+  frameworks: ["NestJS", "Express.js", "Fastify", "Fastapi"],
   apis: ["REST API", "GraphQL", "WebSockets", "Webhooks"],
-  authentication: ["JWT", "AWS Cognito"],
+  authentication: ["JWT", "AWS Cognito", "Clerk", "BetterAuth"],
   cache: ["Redis", "Valke"],
   queue: ["BullMQ", "Redis"],
 };
