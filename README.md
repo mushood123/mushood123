@@ -110,6 +110,8 @@ const apiTools = {
 const devTools = {
   mobile: ["Android Studio", "Xcode"],
   compliance: ["HIPAA Compliance", "GDPR" , "EU"],
+  codeEditor:["vscode", "cursor", "antigravity"],
+  codeAgents=["claude", "codex", "agy cli"]
 };
 ```
 
