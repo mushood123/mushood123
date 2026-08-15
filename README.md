@@ -7,8 +7,10 @@
 **Full Stack Developer** &nbsp;·&nbsp; Backend &amp; Frontend &nbsp;·&nbsp; Mobile
 
 <a href="https://mushood123.github.io"><img src="https://img.shields.io/badge/Portfolio-F78336?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
 <!-- LinkedIn's mark was removed from Simple Icons, so shields.io has no `logo=linkedin`.
      The glyph below is inlined as a base64 data URI to keep the icon row consistent. -->
+
 <a href="https://www.linkedin.com/in/khawaja-muhammad-mushood/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPgo=&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://medium.com/@khawaja.muhammad.mushood"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="mailto:khawaja.muhammad.mushood@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -42,6 +44,8 @@
 ![React Native](https://img.shields.io/badge/React_Native-1a1b27?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![AWS](https://img.shields.io/badge/AWS-1a1b27?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?style=flat-square&logo=fastapi&logoColor=009688)
+![Python](https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=3776AB)
 
 </div>
 
@@ -250,6 +254,19 @@
 ![EU](https://img.shields.io/badge/EU-1a1b27?style=flat-square)
 
 </details>
+
+---
+
+## 🎓 Certifications &amp; Credentials
+
+| Issuer | Certification |
+|:--|:--|
+| ![Anthropic](https://img.shields.io/badge/Anthropic-1a1b27?style=flat-square&logo=anthropic&logoColor=D97757) | **[Claude Code in Action](https://verify.skilljar.com/c/6afrbdejsjm4)** &nbsp;<sub>Issued January 2026</sub> |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-1a1b27?style=flat-square&logo=hackerrank&logoColor=00EA64) | **[Software Engineer](https://www.hackerrank.com/certificates/ac7f2f546ae3)** |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-1a1b27?style=flat-square&logo=hackerrank&logoColor=00EA64) | **[Frontend Developer (React)](https://www.hackerrank.com/certificates/90d5010006fe)** |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-1a1b27?style=flat-square&logo=hackerrank&logoColor=00EA64) | **[SQL (Intermediate)](https://www.hackerrank.com/certificates/8994b39f5570)** |
+| ![Coursera](https://img.shields.io/badge/Coursera-1a1b27?style=flat-square&logo=coursera&logoColor=0056D2) | **[Supervised Machine Learning: Regression and Classification](https://coursera.org/share/29d3edf31ce5711670a0f5e8a07f055d)** |
+| ![Simplilearn](https://img.shields.io/badge/Simplilearn-1a1b27?style=flat-square) | **[Introduction to Prompt Engineering Fundamentals](https://certificates.simplicdn.net/share/9681451_9948612_1767617536882.pdf)** &nbsp;<sub>PDF</sub> |
 
 ---
 
