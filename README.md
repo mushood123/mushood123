@@ -259,14 +259,49 @@
 
 ## 🎓 Certifications &amp; Credentials
 
-| Issuer | Certification |
-|:--|:--|
-| ![Anthropic](https://img.shields.io/badge/Anthropic-1a1b27?style=flat-square&logo=anthropic&logoColor=D97757) | **[Claude Code in Action](https://verify.skilljar.com/c/6afrbdejsjm4)** &nbsp;<sub>Issued January 2026</sub> |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-1a1b27?style=flat-square&logo=hackerrank&logoColor=00EA64) | **[Software Engineer](https://www.hackerrank.com/certificates/ac7f2f546ae3)** |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-1a1b27?style=flat-square&logo=hackerrank&logoColor=00EA64) | **[Frontend Developer (React)](https://www.hackerrank.com/certificates/90d5010006fe)** |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-1a1b27?style=flat-square&logo=hackerrank&logoColor=00EA64) | **[SQL (Intermediate)](https://www.hackerrank.com/certificates/8994b39f5570)** |
-| ![Coursera](https://img.shields.io/badge/Coursera-1a1b27?style=flat-square&logo=coursera&logoColor=0056D2) | **[Supervised Machine Learning: Regression and Classification](https://coursera.org/share/29d3edf31ce5711670a0f5e8a07f055d)** |
-| ![Simplilearn](https://img.shields.io/badge/Simplilearn-1a1b27?style=flat-square) | **[Introduction to Prompt Engineering Fundamentals](https://certificates.simplicdn.net/share/9681451_9948612_1767617536882.pdf)** &nbsp;<sub>PDF</sub> |
+| Issuer                                                                                                           | Certification                                                                                                                                          |
+| :--------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Anthropic](https://img.shields.io/badge/Anthropic-1a1b27?style=flat-square&logo=anthropic&logoColor=D97757)    | **[Claude Code in Action](https://verify.skilljar.com/c/6afrbdejsjm4)** &nbsp;<sub>Issued January 2026</sub>                                           |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-1a1b27?style=flat-square&logo=hackerrank&logoColor=00EA64) | **[Software Engineer](https://www.hackerrank.com/certificates/ac7f2f546ae3)**                                                                          |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-1a1b27?style=flat-square&logo=hackerrank&logoColor=00EA64) | **[Frontend Developer (React)](https://www.hackerrank.com/certificates/90d5010006fe)**                                                                 |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-1a1b27?style=flat-square&logo=hackerrank&logoColor=00EA64) | **[Problem Solving](https://www.hackerrank.com/certificates/cd27a1e9e943)**                                                                            |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-1a1b27?style=flat-square&logo=hackerrank&logoColor=00EA64) | **[SQL (Intermediate)](https://www.hackerrank.com/certificates/8994b39f5570)**                                                                         |
+| ![Coursera](https://img.shields.io/badge/Coursera-1a1b27?style=flat-square&logo=coursera&logoColor=0056D2)       | **[Supervised Machine Learning: Regression and Classification](https://coursera.org/share/29d3edf31ce5711670a0f5e8a07f055d)**                          |
+| ![Simplilearn](https://img.shields.io/badge/Simplilearn-1a1b27?style=flat-square)                                | **[Introduction to Prompt Engineering Fundamentals](https://certificates.simplicdn.net/share/9681451_9948612_1767617536882.pdf)** &nbsp;<sub>PDF</sub> |
+
+---
+
+## ✍️ Writing
+
+<div align="center">
+
+<a href="https://medium.com/@khawaja.muhammad.mushood"><img src="https://img.shields.io/badge/Follow%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Follow on Medium" /></a>
+
+</div>
+
+**⭐ Featured**
+
+| Topic                                                                                                                | Post                                                                                                                                                                                                                                                                                                                       |
+| :------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-1a1b27?style=flat-square&logo=githubactions&logoColor=2088FF) | **[I Stopped SSH-ing Into My Server to Deploy — Here's the 30 Lines of YAML That Replaced It](https://medium.com/@khawaja.muhammad.mushood/i-stopped-ssh-ing-into-my-server-to-deploy-heres-the-30-lines-of-yaml-that-replaced-it-f78689c7fa45)**<br /><sub>Trading manual SSH deploys for a GitHub Actions pipeline</sub> |
+| ![React](https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=61DAFB)                    | **[The Ultimate Guide to React 19.2 &lt;Activity&gt;](https://medium.com/@khawaja.muhammad.mushood/exploring-react-19s-activity-component-preserve-state-and-optimize-performance-5bd66e44a0df)**<br /><sub>Selective unmounting and state preservation with the Activity component</sub>                                  |
+| ![PostgreSQL](https://img.shields.io/badge/Performance-1a1b27?style=flat-square&logo=postgresql&logoColor=4169E1)    | **[I Deleted My Database Query and My App Got Faster](https://medium.com/@khawaja.muhammad.mushood/i-deleted-my-database-query-and-my-app-got-faster-1db6ee53abb7)**<br /><sub>When removing a query is the optimization</sub>                                                                                             |
+
+**📰 Latest**
+
+<!-- Auto-synced from the Medium RSS feed by .github/workflows/blog-posts.yml.
+     Anything between the markers below is overwritten — edit the workflow, not this list. -->
+
+<!-- BLOG-POST-LIST:START -->
+
+- [I Stopped SSH-ing Into My Server to Deploy — Here's the 30 Lines of YAML That Replaced It](https://medium.com/@khawaja.muhammad.mushood/i-stopped-ssh-ing-into-my-server-to-deploy-heres-the-30-lines-of-yaml-that-replaced-it-f78689c7fa45) &nbsp;<sub>Aug 2, 2026</sub>
+- [How to Deploy a Node.js Backend the Correct Way with Nginx + PM2 on Any VPS](https://medium.com/@khawaja.muhammad.mushood/how-to-deploy-a-node-js-backend-the-correct-way-with-nginx-pm2-on-any-vps-b8051193f90a) &nbsp;<sub>May 22, 2026</sub>
+- [How I Built a Free VPN Server on AWS for My Remote Team](https://medium.com/@khawaja.muhammad.mushood/how-i-built-a-free-vpn-server-on-aws-for-my-remote-team-304a16f4de6d) &nbsp;<sub>May 15, 2026</sub>
+- [I Deleted My Database Query and My App Got Faster](https://medium.com/@khawaja.muhammad.mushood/i-deleted-my-database-query-and-my-app-got-faster-1db6ee53abb7) &nbsp;<sub>Jan 29, 2026</sub>
+- [Stop Using Axios Wrong: Best Practices Every Developer Should Know](https://medium.com/@khawaja.muhammad.mushood/how-to-use-axios-like-a-pro-1b76e8bda010) &nbsp;<sub>Dec 21, 2025</sub>
+<!-- BLOG-POST-LIST:END -->
+
+<div align="right"><sub><a href="https://medium.com/@khawaja.muhammad.mushood">→ All posts on Medium</a></sub></div>
 
 ---
 

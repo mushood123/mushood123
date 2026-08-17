@@ -1,0 +1,26 @@
+name: Sync Medium Posts
+
+on:
+  schedule:
+    # Once a day, at 06:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts into the README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@khawaja.muhammad.mushood"
+          max_post_count: 5
+          template: "- [$title]($url) &nbsp;<sub>$date</sub>$newline"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: sync latest Medium posts"
