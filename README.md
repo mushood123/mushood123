@@ -292,11 +292,11 @@
 <!-- Auto-synced from the Medium RSS feed by .github/workflows/blog-posts.yml.
      Anything between the markers below is overwritten — edit the workflow, not this list. -->
 
-<!-- BLOG-POST-LIST:START -->- [I Stopped SSH-ing Into My Server to Deploy — Here’s the 30 Lines of YAML That Replaced It](https://medium.com/@khawaja.muhammad.mushood/i-stopped-ssh-ing-into-my-server-to-deploy-heres-the-30-lines-of-yaml-that-replaced-it-f78689c7fa45?source=rss-bcf286208892------2) &nbsp;<sub>Aug 2, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Nobody Broke Into My Client’s Server. They used the contact form.](https://medium.com/@khawaja.muhammad.mushood/nobody-broke-into-my-clients-server-they-used-the-contact-form-66c5678748c9?source=rss-bcf286208892------2) &nbsp;<sub>Aug 25, 2026</sub>
+- [I Stopped SSH-ing Into My Server to Deploy — Here’s the 30 Lines of YAML That Replaced It](https://medium.com/@khawaja.muhammad.mushood/i-stopped-ssh-ing-into-my-server-to-deploy-heres-the-30-lines-of-yaml-that-replaced-it-f78689c7fa45?source=rss-bcf286208892------2) &nbsp;<sub>Aug 2, 2026</sub>
 - [How to Deploy a Node.js Backend the Correct Way with Nginx + PM2 on Any VPS](https://medium.com/@khawaja.muhammad.mushood/how-to-deploy-a-node-js-backend-the-correct-way-with-nginx-pm2-on-any-vps-b8051193f90a?source=rss-bcf286208892------2) &nbsp;<sub>May 22, 2026</sub>
 - [How I Built a Free VPN Server on AWS for My Remote Team](https://medium.com/@khawaja.muhammad.mushood/how-i-built-a-free-vpn-server-on-aws-for-my-remote-team-304a16f4de6d?source=rss-bcf286208892------2) &nbsp;<sub>May 15, 2026</sub>
 - [I Deleted My Database Query and My App Got Faster](https://medium.com/@khawaja.muhammad.mushood/i-deleted-my-database-query-and-my-app-got-faster-1db6ee53abb7?source=rss-bcf286208892------2) &nbsp;<sub>Jan 29, 2026</sub>
-- [Stop Using Axios Wrong: Best Practices Every Developer Should Know](https://medium.com/@khawaja.muhammad.mushood/how-to-use-axios-like-a-pro-1b76e8bda010?source=rss-bcf286208892------2) &nbsp;<sub>Dec 21, 2025</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right"><sub><a href="https://medium.com/@khawaja.muhammad.mushood">→ All posts on Medium</a></sub></div>
