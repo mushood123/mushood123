@@ -286,11 +286,11 @@
 <!-- Auto-synced from the Medium RSS feed by .github/workflows/blog-posts.yml.
      Anything between the markers below is overwritten — edit the workflow, not this list. -->
 
-<!-- BLOG-POST-LIST:START -->- [Fix “Invalid schema for response_format” with Zod and OpenAI](https://medium.com/@khawaja.muhammad.mushood/fix-invalid-schema-for-response-format-with-zod-and-openai-d292aa7c1416?source=rss-bcf286208892------2) &nbsp;<sub>Oct 5, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Fix Nginx SSE Buffering When Streaming LLM Responses](https://medium.com/@khawaja.muhammad.mushood/fix-nginx-sse-buffering-when-streaming-llm-responses-355fbc3bfe4f?source=rss-bcf286208892------2) &nbsp;<sub>Oct 8, 2026</sub>
+- [Add an MCP Server to Your Existing Node.js Express API](https://medium.com/@khawaja.muhammad.mushood/add-an-mcp-server-to-your-existing-node-js-express-api-7db39cae37cb?source=rss-bcf286208892------2) &nbsp;<sub>Oct 7, 2026</sub>
+- [Fix “Invalid schema for response_format” with Zod and OpenAI](https://medium.com/@khawaja.muhammad.mushood/fix-invalid-schema-for-response-format-with-zod-and-openai-d292aa7c1416?source=rss-bcf286208892------2) &nbsp;<sub>Oct 5, 2026</sub>
 - [How to Fix “Waiting for Status to Be Reported” in GitHub](https://medium.com/@khawaja.muhammad.mushood/how-to-fix-waiting-for-status-to-be-reported-in-github-984b9c44cee4?source=rss-bcf286208892------2) &nbsp;<sub>Oct 2, 2026</sub>
 - [Nobody Broke Into My Client’s Server. They used the contact form.](https://medium.com/@khawaja.muhammad.mushood/nobody-broke-into-my-clients-server-they-used-the-contact-form-66c5678748c9?source=rss-bcf286208892------2) &nbsp;<sub>Aug 25, 2026</sub>
-- [I Stopped SSH-ing Into My Server to Deploy — Here’s the 30 Lines of YAML That Replaced It](https://medium.com/@khawaja.muhammad.mushood/i-stopped-ssh-ing-into-my-server-to-deploy-heres-the-30-lines-of-yaml-that-replaced-it-f78689c7fa45?source=rss-bcf286208892------2) &nbsp;<sub>Aug 2, 2026</sub>
-- [How to Deploy a Node.js Backend the Correct Way with Nginx + PM2 on Any VPS](https://medium.com/@khawaja.muhammad.mushood/how-to-deploy-a-node-js-backend-the-correct-way-with-nginx-pm2-on-any-vps-b8051193f90a?source=rss-bcf286208892------2) &nbsp;<sub>May 22, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right"><sub><a href="https://medium.com/@khawaja.muhammad.mushood">→ All posts on Medium</a></sub></div>
