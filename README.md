@@ -286,11 +286,11 @@
 <!-- Auto-synced from the Medium RSS feed by .github/workflows/blog-posts.yml.
      Anything between the markers below is overwritten — edit the workflow, not this list. -->
 
-<!-- BLOG-POST-LIST:START -->- [Fix Nginx SSE Buffering When Streaming LLM Responses](https://medium.com/@khawaja.muhammad.mushood/fix-nginx-sse-buffering-when-streaming-llm-responses-355fbc3bfe4f?source=rss-bcf286208892------2) &nbsp;<sub>Oct 8, 2026</sub>
-- [Add an MCP Server to Your Existing Node.js Express API](https://medium.com/@khawaja.muhammad.mushood/add-an-mcp-server-to-your-existing-node-js-express-api-7db39cae37cb?source=rss-bcf286208892------2) &nbsp;<sub>Oct 7, 2026</sub>
-- [Fix “Invalid schema for response_format” with Zod and OpenAI](https://medium.com/@khawaja.muhammad.mushood/fix-invalid-schema-for-response-format-with-zod-and-openai-d292aa7c1416?source=rss-bcf286208892------2) &nbsp;<sub>Oct 5, 2026</sub>
-- [How to Fix “Waiting for Status to Be Reported” in GitHub](https://medium.com/@khawaja.muhammad.mushood/how-to-fix-waiting-for-status-to-be-reported-in-github-984b9c44cee4?source=rss-bcf286208892------2) &nbsp;<sub>Oct 2, 2026</sub>
-- [Nobody Broke Into My Client’s Server. They used the contact form.](https://medium.com/@khawaja.muhammad.mushood/nobody-broke-into-my-clients-server-they-used-the-contact-form-66c5678748c9?source=rss-bcf286208892------2) &nbsp;<sub>Aug 25, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [GitHub Actions Manual Approval Before Production Deploys](https://medium.com/@khawaja.muhammad.mushood/github-actions-manual-approval-before-production-deploys-ef0cbdf10b7e?source=rss-bcf286208892------2) &nbsp;<sub>Oct 9, 2026</sub>
+- [How to Evaluate a RAG Pipeline in CI with TypeScript](https://medium.com/@khawaja.muhammad.mushood/how-to-evaluate-a-rag-pipeline-in-ci-with-typescript-e0ea7afac0a9?source=rss-bcf286208892------2) &nbsp;<sub>Oct 9, 2026</sub>
+- [Postgres Backup to S3 from a VPS, with Restore Tests](https://medium.com/@khawaja.muhammad.mushood/postgres-backup-to-s3-from-a-vps-with-restore-tests-a376976d2449?source=rss-bcf286208892------2) &nbsp;<sub>Oct 9, 2026</sub>
+- [Hybrid Search with pgvector and Postgres Full-Text in Node.js](https://medium.com/@khawaja.muhammad.mushood/hybrid-search-with-pgvector-and-postgres-full-text-in-node-js-29033cbd0d73?source=rss-bcf286208892------2) &nbsp;<sub>Oct 9, 2026</sub>
+- [Fix Nginx SSE Buffering When Streaming LLM Responses](https://medium.com/@khawaja.muhammad.mushood/fix-nginx-sse-buffering-when-streaming-llm-responses-355fbc3bfe4f?source=rss-bcf286208892------2) &nbsp;<sub>Oct 8, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right"><sub><a href="https://medium.com/@khawaja.muhammad.mushood">→ All posts on Medium</a></sub></div>
