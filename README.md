@@ -286,11 +286,11 @@
 <!-- Auto-synced from the Medium RSS feed by .github/workflows/blog-posts.yml.
      Anything between the markers below is overwritten — edit the workflow, not this list. -->
 
-<!-- BLOG-POST-LIST:START -->- [GitHub Actions Manual Approval Before Production Deploys](https://medium.com/@khawaja.muhammad.mushood/github-actions-manual-approval-before-production-deploys-ef0cbdf10b7e?source=rss-bcf286208892------2) &nbsp;<sub>Oct 9, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [pgvector Filter by Metadata Returning Too Few Rows? Fix It](https://medium.com/@khawaja.muhammad.mushood/pgvector-filter-by-metadata-returning-too-few-rows-fix-it-13b4b2744649?source=rss-bcf286208892------2) &nbsp;<sub>Oct 9, 2026</sub>
+- [GitHub Actions Manual Approval Before Production Deploys](https://medium.com/@khawaja.muhammad.mushood/github-actions-manual-approval-before-production-deploys-ef0cbdf10b7e?source=rss-bcf286208892------2) &nbsp;<sub>Oct 9, 2026</sub>
 - [How to Evaluate a RAG Pipeline in CI with TypeScript](https://medium.com/@khawaja.muhammad.mushood/how-to-evaluate-a-rag-pipeline-in-ci-with-typescript-e0ea7afac0a9?source=rss-bcf286208892------2) &nbsp;<sub>Oct 9, 2026</sub>
 - [Postgres Backup to S3 from a VPS, with Restore Tests](https://medium.com/@khawaja.muhammad.mushood/postgres-backup-to-s3-from-a-vps-with-restore-tests-a376976d2449?source=rss-bcf286208892------2) &nbsp;<sub>Oct 9, 2026</sub>
 - [Hybrid Search with pgvector and Postgres Full-Text in Node.js](https://medium.com/@khawaja.muhammad.mushood/hybrid-search-with-pgvector-and-postgres-full-text-in-node-js-29033cbd0d73?source=rss-bcf286208892------2) &nbsp;<sub>Oct 9, 2026</sub>
-- [Fix Nginx SSE Buffering When Streaming LLM Responses](https://medium.com/@khawaja.muhammad.mushood/fix-nginx-sse-buffering-when-streaming-llm-responses-355fbc3bfe4f?source=rss-bcf286208892------2) &nbsp;<sub>Oct 8, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right"><sub><a href="https://medium.com/@khawaja.muhammad.mushood">→ All posts on Medium</a></sub></div>
