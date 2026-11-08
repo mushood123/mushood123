@@ -286,11 +286,11 @@
 <!-- Auto-synced from the Medium RSS feed by .github/workflows/blog-posts.yml.
      Anything between the markers below is overwritten — edit the workflow, not this list. -->
 
-<!-- BLOG-POST-LIST:START -->- [Certbot Renew Failing Behind Nginx? Dry Run, Hooks, and Timers](https://medium.com/@khawaja.muhammad.mushood/certbot-renew-failing-behind-nginx-dry-run-hooks-and-timers-48e92156ed95?source=rss-bcf286208892------2) &nbsp;<sub>Nov 6, 2026</sub>
-- [Dependabot Auto Merge: Patch and Minor Only, After CI Passes](https://medium.com/@khawaja.muhammad.mushood/dependabot-auto-merge-patch-and-minor-only-after-ci-passes-c034094a2fb3?source=rss-bcf286208892------2) &nbsp;<sub>Oct 21, 2026</sub>
-- [LLM Cost Tracking per Tenant in Node.js and Postgres](https://medium.com/@khawaja.muhammad.mushood/llm-cost-tracking-per-tenant-in-node-js-and-postgres-f39d1777f8bb?source=rss-bcf286208892------2) &nbsp;<sub>Oct 14, 2026</sub>
-- [pgvector HNSW Index: Create It, Size It, and Build It Fast](https://medium.com/@khawaja.muhammad.mushood/pgvector-hnsw-index-create-it-size-it-and-build-it-fast-996f623b513a?source=rss-bcf286208892------2) &nbsp;<sub>Oct 12, 2026</sub>
-- [Fix ERR_ERL_UNEXPECTED_X_FORWARDED_FOR Behind Nginx](https://medium.com/@khawaja.muhammad.mushood/fix-err-erl-unexpected-x-forwarded-for-behind-nginx-f40bd26c338c?source=rss-bcf286208892------2) &nbsp;<sub>Oct 10, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Fix “context_length_exceeded” in Node.js: Count Tokens First](https://medium.com/@khawaja.muhammad.mushood/fix-context-length-exceeded-in-node-js-count-tokens-first-f6d1deda2798?source=rss-bcf286208892------2) &nbsp;<sub>Nov 8, 2026</sub>
+- [Prompt Injection in RAG: Defenses That Hold in Node.js](https://medium.com/@khawaja.muhammad.mushood/prompt-injection-in-rag-defenses-that-hold-in-node-js-7824490d3423?source=rss-bcf286208892------2) &nbsp;<sub>Nov 8, 2026</sub>
+- [Fix “Missing parameter name at index 1” in Express 5](https://medium.com/@khawaja.muhammad.mushood/fix-missing-parameter-name-at-index-1-in-express-5-2a497d2af6b3?source=rss-bcf286208892------2) &nbsp;<sub>Nov 8, 2026</sub>
+- [Fix “sorry, too many clients already” in Postgres and Node.js](https://medium.com/@khawaja.muhammad.mushood/fix-sorry-too-many-clients-already-in-postgres-and-node-js-7f1988654b51?source=rss-bcf286208892------2) &nbsp;<sub>Nov 8, 2026</sub>
+- [Certbot Renew Failing Behind Nginx? Dry Run, Hooks, and Timers](https://medium.com/@khawaja.muhammad.mushood/certbot-renew-failing-behind-nginx-dry-run-hooks-and-timers-48e92156ed95?source=rss-bcf286208892------2) &nbsp;<sub>Nov 6, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right"><sub><a href="https://medium.com/@khawaja.muhammad.mushood">→ All posts on Medium</a></sub></div>
